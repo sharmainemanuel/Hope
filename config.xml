@@ -8,6 +8,7 @@
       AntiDepressant
   </author>
   <content src="index.html" />
+     <icon src="img/favicon.png"/>
   <plugin name="cordova-plugin-whitelist" spec="1" />
   <access origin="*" />
   <allow-intent href="http://*/*" />
